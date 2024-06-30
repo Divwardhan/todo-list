@@ -1,0 +1,38 @@
+
+
+.main {
+  width: 450px;
+  padding: 20px;
+  background-color: #4d009a;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  color:goldenrod;
+  font-family:cursive;
+  font-weight: 900;
+  font-size: large;
+  text-align: center;
+  
+  
+
+
+}
+
+.add{
+  background-color: gold;
+  border-radius: 50%;
+}
+.add:hover{
+  background-color: goldenrod;
+}
+.add:focus{
+  background-color: orangered;
+}
+
+.creation{
+  margin-bottom: 20px;
+
+} 
+
+
+
+

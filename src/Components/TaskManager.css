@@ -1,0 +1,26 @@
+.tasks{
+    display: flex;
+}
+.left{
+    width:70%;
+    border: 0.5px solid gold;
+}
+.right{
+    width:30%;
+    border: 0.5px solid gold;
+}
+.completed{
+    width:70%;
+    text-decoration: line-through;
+}
+.notCompleted{
+    width:70%;
+    text-decoration: none;
+}
+
+.statusB{
+    border-radius: 10px;
+    background-color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
